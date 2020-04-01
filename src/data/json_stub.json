@@ -1,0 +1,170 @@
+{
+    "basics": {
+        "name": "Bruce Martin",
+        "label": "Full Stack Developer",
+        "picture": "https://i.ibb.co/Mk4XYJW/4dd64839-1323-4f00-b55c-1e98f1945ce1.jpg",
+        "email": "bruce@megavillage.co.za",
+        "phone": "+27 82 928 1628",
+        "website": "http://megavillage.co.za",
+        "summary": "Passionate about technology empowering businesses and teams.",
+        "location": {
+            "address": "2712 Broadway St",
+            "postalCode": "CA 94115",
+            "city": "Cape Town",
+            "countryCode": "ZA",
+            "region": "Western Cape",
+            "name": "Cape Town, South Africa"
+        },
+        "profiles": [
+            { "network": "LinkedIn", "username": "bruce", "url": "https://www.linkedin.com/in/bruce-martin-1396b6141/" }
+        ]
+    },
+    "work": [
+        {
+            "name": "LaraSoft",
+            "position": "Co-founder, Tech Lead",
+            "website": "https://larasoft.co.za",
+            "startDate": "2019-01-01",
+            "summary": "A startup by a CFO and a Tech Lead, LaraSoft aims to bring technology into the financial and business processes of businesses to streamline and improve efficiencies.",
+            "location": "Cape Town, South Africa",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "24Rent Finland",
+            "position": "Sr FrontEnd Developer",
+            "website": "https://24rent.fi",
+            "startDate": "2018-08-01",
+            "summary": "Working as a freelancer with a team based in Finland, Spain and South Africa to develop the company's technology products.",
+            "location": "Helsinki, Finland",
+            "highlights": ["Remote teaming"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Kwazulu-Natal",
+            "area": "Electronic Engineer",
+            "studyType": "Bachelor of Science, Eng",
+            "startDate": "1995-01-01",
+            "endDate": "1998-12-31"
+        }
+    ],
+    "awards": [{ "title": "Award", "date": "2014-11-01", "awarder": "Company", "summary": "There is no spoon." }],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "NodeJS",
+            "level": "Master",
+            "value": 35,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 0,
+            "id": "e42449fd-a953-4770-9170-4716fe83586a"
+        },
+        { "name": "React", "index": 1, "value": 35, "id": "66e909e5-963d-44c5-9444-7abc34dabba3" },
+        { "name": "Dot-net", "index": 2, "value": 30, "id": "5acba1d6-140d-48d9-8240-29210cce466f" },
+        { "name": "Typescript", "index": 3, "value": 100, "id": "63f3a5ba-e044-4f25-850e-f1c4062345df" },
+        { "name": "ASP dot-net", "index": 4, "value": 100, "id": "5d4135b4-3a5b-460a-9894-60a657a094b3" },
+        { "name": "Javascript", "index": 5, "value": 100, "id": "e9005fd1-5e91-406e-b657-ea34db943180" },
+        { "name": "C#", "index": 6, "value": 100, "id": "d34c1fb0-3c0a-4626-8932-0b34306f8c76" },
+        { "name": "Amazon Web Services", "index": 7, "value": 100, "id": "73711817-a7a9-4fb8-83cc-6b6bfe711a2c" },
+        { "name": "Git", "index": 8, "value": 100, "id": "a8e9cd18-4f29-4d86-9c46-a60731693fc3" },
+        { "name": "Docker", "index": 9, "value": 100, "id": "296ba984-cb4d-4404-a342-8789f196b657" },
+        { "name": "CSS3", "index": 10, "value": 100, "id": "9d13ece3-8c17-4148-bcc7-6de8dba9b16d" },
+        { "name": "HTML5", "index": 11, "value": 100, "id": "caf2c1cb-ab0b-46ef-94a9-7cea42c5d8fe" },
+        { "name": "Bootstrap", "index": 12, "value": 100, "id": "2e0694c5-677f-4658-a07b-36c369af8a90" }
+    ],
+    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "interests": [
+        { "name": "MTB", "gifUrl": "https://media.giphy.com/media/l3vR7zmBN5CA3rP1u/giphy.gif" },
+        { "name": "Coffee", "gifUrl": "https://media.giphy.com/media/iUeuhOqTe58ze/giphy.gif" },
+        { "name": "Tech", "gifUrl": "https://media.giphy.com/media/M3o3fL9nnxG4o/giphy.gif" },
+        { "name": "Learning", "gifUrl": "https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" },
+        { "name": "Love spending time with my family when not coding" }
+    ],
+    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "projects": [
+        {
+            "name": "Web App Product Owner - 24rent.fi",
+            "index": 0,
+            "date": "2019-01-01T05:36:13.538Z",
+            "description": "24rent.fi manages a fleet of vehicles that are rented out to companies and individuals via a number of Web Apps. I am the product owner and solo developer on www.24go.fi and matkaan.24rent.fi. Working with a designer, and in collaboration with a backend and business team (based in Finland and Spain) we take an Agile approach, regularly releasing new functionality and improving flow while monitoring the effects on customer uptake.\n\nTechnologies used: React, TypeScript, RESTful APIs, PWA",
+            "id": "96bee6cd-db93-4622-83e5-849b629d238b",
+            "endDate": "2020-03-31"
+        },
+        {
+            "name": "Xero to Salesforce Automation",
+            "description": "U-Turn (http://homeless.org.za) hired me to automate their Accounting and CRM Synchronisation, ensuring that changes made in their Invoicing automatically got recorded and categorised in their CRM system, removing the need for duplicated work and possible errors.\n\nTechnologies used: NodeJS, TypeScript, Xero API, SalesForce API, AWS EC2.",
+            "images": [],
+            "id": "435e5d9e-59e5-4101-b575-d6a5a306997e",
+            "date": "2019-11-30T05:22:13.147Z",
+            "endDate": "2019-11-30"
+        },
+        {
+            "name": "Xero to SQL Synchronization",
+            "date": "2019-12-31T22:00:00.000Z",
+            "description": "Common Ground Church (commonground.co.za) makes extensive use of Xero accounting, and requires that changes made are automatically reflected in the BI Dashboards and Excel reporting - enabling stakeholders to always have access to data no more than 24 hours old.\n\nTechnologies used: NodeJS, TypeScript, Sequelize, AWS Lambda, MSSQL, Azure SQL.",
+            "id": "2b32b8be-a78c-4b0d-8eb8-a89464752049",
+            "endDate": "2020-01-01"
+        },
+        {
+            "name": "SimplePay to SQL Synchronization",
+            "date": "2020-03-31T05:36:13.538Z",
+            "description": "Common Ground Church (commonground.co.za) uses SimplePay to manage payroll across its 70 employees, and requires that the data generated is exported automatically to an SQL database, so that reporting and BI dashboards can be generated with live data for stakeholders to view.\n\nTechnologies used: C#.NET Core, Entity Framework, MSSQL, Azure SQL",
+            "id": "96bee6cd-db93-4622-83e5-849b629d238a",
+            "endDate": "2020-03-31"
+        }
+    ],
+    "specific": {
+        "basics": {
+            "visaSponsorship": true,
+            "personalDescription": "I'm a full stack developer who thrives on entering into the processes of a business (or team) and mapping it out into the software world to automate and bring Web 2.0 efficiency to the space."
+        },
+        "dreamJob": {
+            "locations": [{ "name": "Cape Town, South Africa" }, { "name": "Wakanda, Forever" }],
+            "remoteFrequency": "regularly"
+        },
+        "currentJob": { "issues": {} },
+        "education": { "studiesLevel": 5 },
+        "work": {
+            "contractTypes": ["freelancing"],
+            "codingYears": 7,
+            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "searchState": "activelySearching",
+            "experienceYears": 9
+        },
+        "sound": { "embedUrl": "https://open.spotify.com/embed/playlist/7AwcXDwBmTsyaiwjvPKlkF" },
+        "interestedBy": "Devops, Cloud, Blockchain"
+    },
+    "resumeCustomization": {
+        "imageHeader": { "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp", "alt": "Default Banner" },
+        "cardsOrder": [
+            { "type": "basics", "variant": 4 },
+            { "type": "projects", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "dreamjob", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "studies", "variant": 4 },
+            { "type": "gifs", "variant": 0 },
+            { "type": "interestedBy", "variant": 3 },
+            { "type": "language", "variant": 4 },
+            { "type": "soundtrack", "variant": 4 }
+        ]
+    }
+}
